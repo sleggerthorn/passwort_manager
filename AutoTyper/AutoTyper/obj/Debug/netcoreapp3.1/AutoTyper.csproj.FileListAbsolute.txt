@@ -1,0 +1,16 @@
+C:\Users\Alex\source\repos\AutoTyper\AutoTyper\bin\Debug\netcoreapp3.1\AutoTyper.exe
+C:\Users\Alex\source\repos\AutoTyper\AutoTyper\bin\Debug\netcoreapp3.1\AutoTyper.deps.json
+C:\Users\Alex\source\repos\AutoTyper\AutoTyper\bin\Debug\netcoreapp3.1\AutoTyper.runtimeconfig.json
+C:\Users\Alex\source\repos\AutoTyper\AutoTyper\bin\Debug\netcoreapp3.1\AutoTyper.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\AutoTyper\AutoTyper\bin\Debug\netcoreapp3.1\AutoTyper.dll
+C:\Users\Alex\source\repos\AutoTyper\AutoTyper\bin\Debug\netcoreapp3.1\AutoTyper.pdb
+C:\Users\Alex\source\repos\AutoTyper\AutoTyper\obj\Debug\netcoreapp3.1\AutoTyper.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\AutoTyper\AutoTyper\obj\Debug\netcoreapp3.1\AutoTyper.AssemblyInfo.cs
+C:\Users\Alex\source\repos\AutoTyper\AutoTyper\obj\Debug\netcoreapp3.1\AutoTyper.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\AutoTyper\AutoTyper\obj\Debug\netcoreapp3.1\AutoTyper.dll
+C:\Users\Alex\source\repos\AutoTyper\AutoTyper\obj\Debug\netcoreapp3.1\AutoTyper.pdb
+C:\Users\Alex\source\repos\AutoTyper\AutoTyper\obj\Debug\netcoreapp3.1\AutoTyper.genruntimeconfig.cache
+C:\Users\Alex\source\repos\AutoTyper\AutoTyper\obj\Debug\netcoreapp3.1\AutoTyper.Form1.resources
+C:\Users\Alex\source\repos\AutoTyper\AutoTyper\obj\Debug\netcoreapp3.1\AutoTyper.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\AutoTyper\AutoTyper\obj\Debug\netcoreapp3.1\AutoTyper.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\AutoTyper\AutoTyper\obj\Debug\netcoreapp3.1\AutoTyper.GeneratedMSBuildEditorConfig.editorconfig
